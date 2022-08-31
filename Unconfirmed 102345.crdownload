@@ -1,0 +1,42 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[10]:
+
+
+for x in [0, 1, 2]:
+    pass
+
+
+# In[6]:
+
+
+for x in range(9):
+    if x==3: break
+    print(x)
+else:
+    print("finally finished!")
+
+
+# In[9]:
+
+
+firstname=["sharps", "smoooth", "love"]
+secondname=["brain", "heart", "bird"]
+for x in firstname:
+    for y in secondname:
+        print(x,y)
+
+
+# In[13]:
+
+
+for x in[0, 1, 2]:
+    pass
+
+
+# In[ ]:
+
+
+
+
